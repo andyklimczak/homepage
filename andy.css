@@ -7,3 +7,26 @@ header {
   font-size: 7em;
   font-family: 'Press Start 2P', cursive;
 }
+
+pre {
+  margin-top: 2em;
+  font-family: 'Cardo', serif;
+}
+
+code {
+  font-family: 'Inconsolata';
+  color: #D43948;
+  font-size: smaller;
+}
+
+.source {
+  font-size: x-small;
+}
+
+a, a:visited {
+  color: inherit;
+}
+
+a:hover, a:active {
+  color: #D43948;
+}
